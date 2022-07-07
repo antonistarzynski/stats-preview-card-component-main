@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/image-header-desktop.jpeg)
+![](./design/desktop_design.jpeg)
 
 ### Links
 
