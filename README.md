@@ -16,8 +16,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [see solution URL](https://your-solution-url.com)
-- Live Site URL: [see live site URL](https://your-live-site-url.com)
+- Solution URL: [see solution URL](https://github.com/antonistarzynski/stats-preview-card-component-main)
+- Live Site URL: [see live site URL](https://antonistarzynski.github.io/stats-preview-card-component-main/)
+
 
 
 ### Built with
